@@ -1,8 +1,8 @@
-baseURL = "/"
+baseURL = "https://stats-fpn-fhml.onrender.com/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Hugo Apéro"
-author = "Alison Hill"
+title = "Statistical Expertise and Research Group"
+author = "Andrea Gabrio"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
@@ -29,33 +29,33 @@ enableEmoji = true
     
 [params]
   orgName = "RStudio"
-  orgLocal = "Anywhere"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  orgLocal = ""
+  description = ""
+  favicon = "/img/mu_sigma.ico"
+  logo = "/img/mu_sigma.jpg"
+  mainSections = ""
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
   socialInHeader = false
-  socialInFooter = true
+  socialInFooter = false
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = "/img/limburg.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  twitter = ""
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "sky"
+  theme = ""
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
   # the custom scss file must be in the assets/ folder
   # add the filename name here, without extension
   # to use hex colors instead of named tachyons colors, include "hex" in filename
-  custom_theme = "" 
+  custom_theme = "custom-colors" 
   
   # use an embedded font-family
   # serif options: Fraunces / EB Garamond / Bitter
@@ -84,31 +84,32 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
+      url       = "https://github.com/AnGabrio/Stats.FPN.FHML"
   [[params.social]]
       icon      = "facebook-square" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
+      url       = "https://www.facebook.com/um.fhml"
   [[params.social]]
       icon      = "instagram" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.instagram.com/explore/tags/apero/"
+      url       = "https://www.instagram.com/um.fhml/"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
+      url       = "https://twitter.com/caphri_um/"
   [[params.social]]
-      icon      = "impactstory" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://impactstory.org/u/0000-0002-8082-1890"
+      icon      = "linkedin" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.linkedin.com/school/maastricht-university"
   [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "http://orcid.org/0000-0002-8082-1890"
+      icon      = "r-project" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.rstudio.com/"
   [[params.social]]
-      icon      = "rss" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "/blog/index.xml"
+      icon      = "youtube-square" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.youtube.com/channel/UCKWYmILbwmRMVe2QzYwCOgw"
+
 
 [taxonomies]
   category = "categories"
@@ -119,7 +120,7 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About the group"
     url = "/about/"
     weight = 1
   [[menu.header]]
@@ -128,8 +129,8 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
+    name = "Research"
+    title = "Research"
     url = "/project/"
     weight = 3
   [[menu.header]]
@@ -138,32 +139,27 @@ enableEmoji = true
     url = "/talk/"
     weight = 4
   [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
+    name = "Publications"
+    title = "Publications"
+    url = "/publication/"
     weight = 5
   [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
+    name = "People"
+    title = "People"
+    url = "/people/"
     weight = 6
     
   # Configure footer  
   [[menu.footer]]
-    name = "License"
-    title = "License"
-    url = "/license/"
-    weight = 1
-  [[menu.footer]]
     name = "Contact"
     title = "Contact form"
     url = "/contact/"
-    weight = 2
+    weight = 1
   [[menu.footer]]
     name = "Contributors"
     title = "Contributors"
     url = "/contributors/"
-    weight = 3
+    weight = 2
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
