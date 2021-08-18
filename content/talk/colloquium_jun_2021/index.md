@@ -8,7 +8,7 @@ date_end: "2021-06-22"
 draft: false
 event: colloquium
 event_url: 
-excerpt: 
+excerpt: Department colloquium.
 featured: true
 layout: single
 links:

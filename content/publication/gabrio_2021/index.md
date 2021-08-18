@@ -9,7 +9,7 @@ date_end: "2021-01-01"
 draft: false
 event: 
 event_url: 
-excerpt: 
+excerpt: Journal of the Royal Statistical Society - Series A (Statistics in Society)
 featured: true
 layout: single
 links:

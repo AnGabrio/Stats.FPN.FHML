@@ -4,7 +4,8 @@ categories:
 - team
 date: "2015-09-14"
 draft: false
-excerpt: 
+excerpt: Alberto is a very nice person.
+weight: 2
 layout: single
 links:
 - icon: linkedin
