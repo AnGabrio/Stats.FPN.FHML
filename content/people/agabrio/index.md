@@ -5,7 +5,6 @@ categories:
 date: "2016-09-14"
 draft: false
 excerpt: I am a very nice person (maybe).
-weight: 3
 layout: single
 links:
 - icon: twitter

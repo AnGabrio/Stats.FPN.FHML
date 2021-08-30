@@ -5,7 +5,6 @@ categories:
 date: "2015-09-14"
 draft: false
 excerpt: Alberto is a very nice person.
-weight: 2
 layout: single
 links:
 - icon: linkedin

@@ -5,7 +5,6 @@ categories:
 date: "2016-09-14"
 draft: false
 excerpt: Francesco is a very nice person.
-weight: 3
 layout: single
 links:
 - icon: linkedin

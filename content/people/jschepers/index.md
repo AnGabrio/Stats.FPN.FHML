@@ -5,7 +5,6 @@ categories:
 date: "2014-09-14"
 draft: false
 excerpt: Jan is a very nice person.
-weight: 4
 layout: single
 links:
 - icon: linkedin
