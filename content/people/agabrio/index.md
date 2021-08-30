@@ -16,30 +16,6 @@ links:
   icon_pack: ai
   name: Scholar
   url: https://scholar.google.co.uk/citations?user=2fPE3iAAAAAJ&hl
-- icon: github
-  icon_pack: fab
-  name: GitHub
-  url: https://github.com/AnGabrio
-- icon: linkedin
-  icon_pack: fab
-  name: Linkedin
-  url: https://uk.linkedin.com/in/andrea-gabrio-730514bb/
-- icon: arxiv
-  icon_pack: ai
-  name: ArXiv
-  url: https://arxiv.org/a/gabrio_a_1.html
-- icon: orcid
-  icon_pack: ai
-  name: Orcid
-  url: https://orcid.org/0000-0002-7650-4534
-- icon: r-project
-  icon_pack: fab
-  name: Rstudio
-  url: https://rstudio.com/
-- icon: publons
-  icon_pack: ai
-  name: Publons
-  url: https://publons.com/researcher/2978939/andrea-gabrio/
 subtitle: Assistant Professor of Statistics, Department of Methodology and Statistics - FHML, Maastricht University
 tags:
 title: Andrea Gabrio
@@ -55,6 +31,3 @@ I have collaborated with the [Statistics for Health Economic Evaluation research
 
 I have also collaborated with the [Health Economics Analysis and Research methodology Team](https://hearteam.blogspot.com/) in the [Institute for Clinical Trials and Methodology](https://www.ucl.ac.uk/clinical-trials-and-methodology/) at UCL, working primarily with the members of the [Priment Clinical Trials Unit](https://www.ucl.ac.uk/clinical-trials-and-methodology/about/priment). The group focuses on the development of methodological tools for the analysis of the economic components in randomised control trials across a wide range of clinical areas and is formed by a group of interdisciplinary and varied experience. 
 
-{{< alert note >}}
-I am a huge fan of **RStudio** and its tools, such as [Rmarkdown](https://rmarkdown.rstudio.com/) and [blogdown](https://bookdown.org/) packages, which are aimed at the construction of documents that combine text, **R** code and the output from the execution of that code: from html and pdf files to multi-page web sites and e-books (yes this website is written in **Markdown**!). Oh, and I ❤ LaTeX.
-{{< /alert >}}
