@@ -2,23 +2,19 @@
 author:
 categories:
 - team
-date: "2021-09-14"
+date: "2016-09-14"
 draft: false
-excerpt: I am a very funny person.
-weight: 1
+excerpt: Francesco is a very nice person (maybe).
+weight: 3
 layout: single
 links:
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  name: Twitter
-  url: https://twitter.com/andreagabrio
-- icon: google-scholar
-  icon_pack: ai
-  name: Scholar
-  url: https://scholar.google.co.uk/citations?user=2fPE3iAAAAAJ&hl
+  name: Linkedin
+  url: https://www.linkedin.com/in/francesco-innocenti-853466115/?originalSubdomain=nl
 subtitle: Assistant Professor of Statistics, Department of Methodology and Statistics - FHML, Maastricht University
 tags:
-title: Andrea Gabrio
+title: Francesco Innocenti
 ---
 
-I am an assistant professor in Statistics in the 
+Francesco is a very nice person.
